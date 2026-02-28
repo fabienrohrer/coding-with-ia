@@ -1,6 +1,6 @@
 # Coding with IA
 
-## initiation pratique avec GitHub Copilot (cas réel Java/Angular)
+*initiation pratique avec GitHub Copilot (cas réel Java/Angular)*
 
 ## Fichiers
 
