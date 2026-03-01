@@ -9,7 +9,8 @@
 - **02_IA_en_perspective.pdf**: présentation #2
 - **03_panorama.pdf**: présentation #3
 - **04_prompt_engineering.pdf**: présentation #4
-- **05_tp.pdf**: TP
+- **05-06_tp.pdf**: TP
+- **07_conclusion.pdf**: présentation #7
 - **support_de_cours.pdf**: support théorique du cours.
 
 ## Sondage de satisfaction
